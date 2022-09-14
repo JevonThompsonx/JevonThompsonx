@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning programming
 - 🌱 I’m currently learning ... HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://twitter.com/JevonThompson12
+- 📫 How to reach me ... 
 
 <!---
 JevonThompsonx/JevonThompsonx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

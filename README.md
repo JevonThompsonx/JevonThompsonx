@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JevonThompsonx
 - 👀 I’m interested in ... learning programming
-- 🌱 I’m currently learning ... HTML
+- 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 

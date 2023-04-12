@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JevonThompsonx
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that would help me gain experience
 - 📫 How to reach me through [My website](https://jevonthompsonx.github.io/WebDevJev/ "Jevon's site")
 
 <!---

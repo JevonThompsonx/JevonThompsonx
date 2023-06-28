@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JevonThompsonx
 - 👀 I’m interested in working as a developer intern
-- 🌱 I’m currently learning nodeJS
+- 🌱 I’m currently learning mongoDB
 - 💞️ I’m looking to collaborate on anything that would help me gain experience
 - 📫 Reach me through [My website](https://web-dev-jev-blogsite.ue.r.appspot.com/ "Jevon's site")
 

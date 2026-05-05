@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JevonThompsonx
-- 👀 I’m interested in working as a developer(still figuring what kind)
-- 🌱 I’m currently python
+- 👀 I’m interested in working as a sys admin
+- 🌱 I’m currently golang, powershell scripting and system administration
 - 💞️ I’m looking to collaborate on anything that would help me gain experience
-- 📫 Reach me through [My website](https://web-dev-jev-blogsite.ue.r.appspot.com/ "Jevon's site")
+- 📫 Reach me through [My website](https://web-dev-blogsite.vercel.app/)
+- [Travel blog](https://jsquaredadventures.com) 
 
 
 <!---

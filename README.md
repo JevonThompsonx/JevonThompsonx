@@ -3,7 +3,8 @@
 - 🌱 I’m currently golang, powershell scripting and system administration
 - 💞️ I’m looking to collaborate on anything that would help me gain experience
 - 📫 Reach me through [My website](https://web-dev-blogsite.vercel.app/)
-- [Travel blog](https://jsquaredadventures.com) 
+- [Travel blog](https://jsquaredadventures.com)
+- Self hosted [forgejo instance](https://forge.jsquaredadventures.com) (github alternative)
 
 
 <!---
